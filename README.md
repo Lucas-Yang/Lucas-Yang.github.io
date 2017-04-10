@@ -2,4 +2,5 @@
 -----------
 
 ###### [C/C++程序的内存理解](http://Lucas-Yang.github.io/1_page)
+###### [char a[]与char *a所占空间理解](http://Lucas-Yang.github.io/2_page)
 

@@ -29,7 +29,8 @@ siezeof(a)==6, sizeof(b)==4, sizeof(*b)==1, sizeof(c)=10
 同时 b是一个指针 无论如何都是4， 但是*可以理解为一个地址类型，b才存放着另外一个变量的地址所以输出为1
 ，c已经指定了大小 则输出为10.
 
-######如果有错误欢迎指正 感谢 比心
+###### 如果有错误欢迎指正 感谢 比心
 
 特别有意思的是 countsiz(a)==4 countsize(b)==4 countsize(c)==4 其实coutsize(char a[])与coutsize(char *a)是一样的，它是不会为你记录数组的大小，而是传入了地址参数。
-####[返回主页](http://Lucas-Yang.github.io)
+
+#### [返回主页](http://Lucas-Yang.github.io)

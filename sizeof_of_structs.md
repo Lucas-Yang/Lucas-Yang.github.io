@@ -48,6 +48,8 @@ int main()
 将第一处的代码的double 与int 换了一个位置后 得到sizeof(SRT)=24 char 放在了0～7 double在8～15
 int在16～19 所以这里涉及到第二个原则
 ####  第二 占空间为最大数据占空间的整数倍 所以在内存20～23为对齐补全的。
+如果有错误 欢迎指正 比心 （ylucas923@gmail.com）
+###### [返回主页](https://github.com/Lucas-Yang/Lucas-Yang.github.io/blob/master/README.md)
 
 
 

@@ -1,4 +1,4 @@
-等待只会滋生怀疑与恐惧，行动能可找到真正的出路
+等待观望只会滋生怀疑与恐惧
 -----------
 ###### [C/C++程序的内存理解](http://Lucas-Yang.github.io/1_page)
 ###### [char数组与动态char数组](http://Lucas-Yang.github.io/2_page)

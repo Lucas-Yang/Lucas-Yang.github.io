@@ -8,6 +8,7 @@
 ###### [指针数组与数组指针](http://Lucas-Yang.github.io/pointer_array)
 ###### [tcp/ip协议族的简单认识](http://Lucas-Yang.github.io/tcp_udp)
 ###### [android开发——wifi](http://Lucas-Yang.github.io/android_development_wifi)
+###### [androidkaifa——图片太大真机无法显示](http://Lucas-Yang.github.io/android_xpi)
 ###### [windows下安装mxnet](http://Lucas-Yang.github.io/mxnet_install)
 ###### [mxnet做线性回归](http://Lucas-Yang.github.io/mxnet_liner)
 

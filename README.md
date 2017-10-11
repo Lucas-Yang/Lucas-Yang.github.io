@@ -9,4 +9,5 @@
 ###### [tcp/ip协议族的简单认识](http://Lucas-Yang.github.io/tcp_udp)
 ###### [android开发——wifi](http://Lucas-Yang.github.io/android_development_wifi)
 ###### [windows下安装mxnet](http://Lucas-Yang.github.io/mxnet_install)
+###### [mxnet做线性回归](http://Lucas-Yang.github.io/mxnet_liner)
 
